@@ -14,4 +14,6 @@ One day, I thought.
 
 So this is what they call a “stupid person.”
 
+But I really did think about it seriously.
+
 That's how the development of Gria began—out of the blue.
