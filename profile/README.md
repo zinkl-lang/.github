@@ -15,6 +15,8 @@ One day, I thought.
 > 
 > "Hmm... Then... Oh! Just make a new one!"
 
+---
+
 So this is what they call a “stupid person.”
 
 But I really did think about it seriously.
