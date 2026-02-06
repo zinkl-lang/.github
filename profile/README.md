@@ -1,5 +1,5 @@
 ### what we value
 - Memory Safety
-- No overhead
+- Lowest overhead
 - Compilation speed
 - Simple syntax
